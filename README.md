@@ -37,3 +37,4 @@ My interests revolve around the modernization of software development processes.
 - https://allcontributors.org/ - Clever little tool to recognize repo contributors.
 - AWS CDK Samples - https://github.com/aws-samples/aws-cdk-examples
 - https://sli.dev/ - Presentations via markdown.
+- https://dangitgit.com/en
