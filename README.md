@@ -1,4 +1,4 @@
-## Hi there. 👋
+## Hi There 👋
 
 Hope you find something interesting. Follow me! 
 
