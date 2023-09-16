@@ -1,6 +1,6 @@
-## Hi there. Please Follow and/or Sponsor me. 👋
+## Hi there. 👋
 
-My interests revolve around the modernization of software development processes. For me, this entails the use of generative AI in coding, container-based development, and the expression of all software development processes through git-driven pipelines. I have a particular interest in how test-oriented processes are integrated into software development, how they inform developer decisions, support developer/team productivity, and produce quality software. 
+Hope you find something interesting. Follow me! 
 
 ### Organization Content
 1. 💙 **Jit CI Product Review** - [Overview & Security Plan repo, defined in code](https://github.com/ppottorff/jitrepo)
@@ -10,7 +10,7 @@ My interests revolve around the modernization of software development processes.
 
 ### Technologies for Development (betraying my love for GitHub)
 
-- **[Generative AI](https://github.com/features/copilot)** - Products like Co-Pilot make any developer more productive. IMHO, it is not a crutch for the weak.
+- **[Generative AI](https://github.com/features/copilot)** - IMHO, products like Co-Pilot are interesting and useful. 
 - **[Container-based Dev](https://github.com/features/codespaces)** - Define your dev environment in code. Use tools like Docker or Codespaces, develop in a container.
 - **[Pipelines](https://docs.github.com/en/actions)** - Anything manually can be automated in code. 
 
@@ -19,7 +19,7 @@ My interests revolve around the modernization of software development processes.
 - 💙 https://obsidian.md/ & https://www.markdownguide.org/ - Markdown everywhere! 
 - 💙 https://code.visualstudio.com/
 - https://brew.sh/ and https://chocolatey.org/ - Package managers change everything.
-- https://chat.openai.com/ - Usefull in providing direction, often untrustworthy. 
+- https://chat.openai.com/ - Useful in providing direction, often untrustworthy. 
 - https://www.postman.com/
 - https://www.docker.com/ 
 
