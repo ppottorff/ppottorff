@@ -19,9 +19,24 @@ Hope you find something interesting. Follow me!
 - 💙 https://obsidian.md/ & https://www.markdownguide.org/ - Markdown everywhere! 
 - 💙 https://code.visualstudio.com/
 - https://brew.sh/ and https://chocolatey.org/ - Package managers change everything.
-- https://chat.openai.com/ - Useful in providing direction, often untrustworthy. 
+
 - https://www.postman.com/
 - https://www.docker.com/ 
+
+### AI Links
+- https://chat.openai.com/
+- [Gandolf - An AI Red Team practice tool](https://gandalf.lakera.ai/)
+- [Mitre Resources](https://atlas.mitre.org/matrices/ATLAS)
+- [Microsoft Responsible AI Report](https://gandalf.lakera.ai/)
+- [AI Red Team Example](https://www.theregister.com/2024/05/13/ai_xforce_red_penetration/?utm_source=tldrinfosec)
+- [Microsoft PyRIT AI Red Teaming](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/)
+
+### Web Development
+- [Node Web App Protection](https://github.com/arcjet/arcjet-js)
+- [Build a CloudFront App in CDK](https://petermcaree.com/posts/how-to-build-spa-deployment-using-aws-cdk/?utm_source=tldrdevops)
+
+### Windows Links
+-- [Sudo for Windows](https://github.com/microsoft/sudo?utm_source=tldrinfosec)
 
 ### Skill Development Resources
 - GitHub: https://skills.github.com/ & https://learn.microsoft.com/en-us/training/github/
