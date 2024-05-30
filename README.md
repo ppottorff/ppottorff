@@ -28,15 +28,17 @@ Hope you find something interesting. Follow me!
 - [Gandolf - An AI Red Team practice tool](https://gandalf.lakera.ai/)
 - [Mitre Resources](https://atlas.mitre.org/matrices/ATLAS)
 - [Microsoft Responsible AI Report](https://gandalf.lakera.ai/)
+- [InfraGPT](https://devpost.com/software/infragpt)
 - [AI Red Team Example](https://www.theregister.com/2024/05/13/ai_xforce_red_penetration/?utm_source=tldrinfosec)
 - [Microsoft PyRIT AI Red Teaming](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/)
-
+- [Prompt Injection article](https://blog.seclify.com/prompt-injection-cheat-sheet/)
+  
 ### Web Development
 - [Node Web App Protection](https://github.com/arcjet/arcjet-js)
 - [Build a CloudFront App in CDK](https://petermcaree.com/posts/how-to-build-spa-deployment-using-aws-cdk/?utm_source=tldrdevops)
 
 ### Windows Links
--- [Sudo for Windows](https://github.com/microsoft/sudo?utm_source=tldrinfosec)
+- [Sudo for Windows](https://github.com/microsoft/sudo?utm_source=tldrinfosec)
 
 ### Skill Development Resources
 - GitHub: https://skills.github.com/ & https://learn.microsoft.com/en-us/training/github/
@@ -46,6 +48,7 @@ Hope you find something interesting. Follow me!
 - Local Networking: [ISSA](https://www.members.issa.org/page/chapters#), [ISC2](https://www.isc2.org/Chapters/Chapter-Directory), [CSA](https://cloudsecurityalliance.org/chapters/), [WiCys](https://www.wicys.org/), [BIC](https://www.blacksincyberconf.com/), [ISACA](https://www.isaca.org/membership/local-chapters), [OWASP](https://owasp.org/chapters/)
 - https://www.100daysofcloud.com/#community
 - https://www.udemy.com/
+- https://learn.openapis.org/
 
 ### Other Links: 
 
