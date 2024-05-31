@@ -8,8 +8,6 @@ Hope you find something interesting. Follow me!
 3. 🏗️ **Containerized SliDev Environment** - It's rough. [Working on a project to create slide decks, using SliDev, in a container.](https://github.com/ppottorff/Containerized-SliDev-Environment)
 4. :notebook: [Code with Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) - Playbook for engineering teams. Reference for MkDocs in a well-designed pipeline.
 
-### Technologies for Development (betraying my love for GitHub)
-
 - **[Generative AI](https://github.com/features/copilot)** - IMHO, products like Co-Pilot are interesting and useful. 
 - **[Container-based Dev](https://github.com/features/codespaces)** - Define your dev environment in code. Use tools like Docker or Codespaces, develop in a container.
 - **[Pipelines](https://docs.github.com/en/actions)** - Anything manually can be automated in code. 
@@ -19,7 +17,6 @@ Hope you find something interesting. Follow me!
 - 💙 https://obsidian.md/ & https://www.markdownguide.org/ - Markdown everywhere! 
 - 💙 https://code.visualstudio.com/
 - https://brew.sh/ and https://chocolatey.org/ - Package managers change everything.
-
 - https://www.postman.com/
 - https://www.docker.com/ 
 
@@ -32,17 +29,32 @@ Hope you find something interesting. Follow me!
 - [AI Red Team Example](https://www.theregister.com/2024/05/13/ai_xforce_red_penetration/?utm_source=tldrinfosec)
 - [Microsoft PyRIT AI Red Teaming](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/)
 - [Prompt Injection article](https://blog.seclify.com/prompt-injection-cheat-sheet/)
+- [CoPilot Studio GA, AppDevelopment](https://youtu.be/FwJ1Zz_DntY?t=4615)
   
 ### Web Development
 - [Node Web App Protection](https://github.com/arcjet/arcjet-js)
 - [Build a CloudFront App in CDK](https://petermcaree.com/posts/how-to-build-spa-deployment-using-aws-cdk/?utm_source=tldrdevops)
+- [Matcha.css](https://dev.to/lowlighter/make-naked-websites-look-great-with-matchacss-4ng7)
+
+### Cloud DevOps
+- [Calculate Cloud Resource Cost in your Pipeline[(https://www.infracost.io/)
+- [AWS Managed Keys VS CMK - Threat Model](https://airwalkreply.com/aws-kms-threat-model)
+
+### GitHub
+- https://parallels.github.io/prl-devops-service/
+- https://github.com/github/rest-api-description
+- https://docs.github.com/en/enterprise-cloud@latest/github-cli/github-cli/about-github-cli
+- https://docs.github.com/en/enterprise-cloud@latest/admin/configuration/configuring-private-networking-for-hosted-compute-products/configuring-private-networking-for-github-hosted-runners-in-your-enterprise
+- https://github.com/github/gh-es
+
 
 ### Windows Links
 - [Sudo for Windows](https://github.com/microsoft/sudo?utm_source=tldrinfosec)
 
 ### Skill Development Resources
 - GitHub: https://skills.github.com/ & https://learn.microsoft.com/en-us/training/github/
-- Interesting: https://www.hackerrank.com/ & https://leetcode.com/
+- Dev Skills: https://www.hackerrank.com/ & https://leetcode.com/
+- [GitHub Exam Registration, Certification, and Training Site](https://examregistration.github.com/overview)
 - https://learn.microsoft.com/en-us/ - [Virtual Training Days](https://events.microsoft.com/en-us/mvtd?startTime=08:00&endTime=17:00) & [Skill Challenges](https://www.microsoft.com/en-US/cloudskillschallenge/ai/registration/2023) are solid.
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) - So many fun in-person and online events.
 - Local Networking: [ISSA](https://www.members.issa.org/page/chapters#), [ISC2](https://www.isc2.org/Chapters/Chapter-Directory), [CSA](https://cloudsecurityalliance.org/chapters/), [WiCys](https://www.wicys.org/), [BIC](https://www.blacksincyberconf.com/), [ISACA](https://www.isaca.org/membership/local-chapters), [OWASP](https://owasp.org/chapters/)
@@ -51,7 +63,7 @@ Hope you find something interesting. Follow me!
 - https://learn.openapis.org/
 
 ### Other Links: 
-
+- [Microsoft Threat Modeling Framework](https://github.com/simorjay/PeerThreatModel)
 - https://allcontributors.org/ - Clever little tool to recognize repo contributors.
 - AWS CDK Samples - https://github.com/aws-samples/aws-cdk-examples
 - https://sli.dev/ - Presentations via markdown.
