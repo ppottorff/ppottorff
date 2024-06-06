@@ -35,6 +35,7 @@ Hope you find something interesting. Follow me!
 - [Node Web App Protection](https://github.com/arcjet/arcjet-js)
 - [Build a CloudFront App in CDK](https://petermcaree.com/posts/how-to-build-spa-deployment-using-aws-cdk/?utm_source=tldrdevops)
 - [Matcha.css](https://dev.to/lowlighter/make-naked-websites-look-great-with-matchacss-4ng7)
+- [Yamada UI]([)](https://github.com/yamada-ui/yamada-ui)
 
 ### Cloud DevOps
 - [Calculate Cloud Resource Cost in your Pipeline[(https://www.infracost.io/)
@@ -46,14 +47,22 @@ Hope you find something interesting. Follow me!
 - https://docs.github.com/en/enterprise-cloud@latest/github-cli/github-cli/about-github-cli
 - https://docs.github.com/en/enterprise-cloud@latest/admin/configuration/configuring-private-networking-for-hosted-compute-products/configuring-private-networking-for-github-hosted-runners-in-your-enterprise
 - https://github.com/github/gh-es
+- [Using the .github repo](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/)
+- [GitHub Actions Toolkit - NPM](https://github.com/actions/toolkit)
+- [Configuring Dependency Review](https://docs.github.com/en/enterprise-cloud@latest/code-security/supply-chain-security/understanding-your-software-supply-chain/configuring-dependency-review#configuring-the-dependency-review-github-action) and [Workflow to flag Vuln > High and GPL licenses](https://github.com/ppottorff/Containerized-Dev-Environment/blob/main/.github/workflows/dependency-review.yml)
 
 
 ### Windows Links
 - [Sudo for Windows](https://github.com/microsoft/sudo?utm_source=tldrinfosec)
 
+### Bot Development
+- [https://www.youtube.com/watch?v=_ybtwZwZC3Y](https://www.youtube.com/watch?v=_ybtwZwZC3Y)
+- [Teams AI Library - MS Learn](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview)
+
 ### Skill Development Resources
 - GitHub: https://skills.github.com/ & https://learn.microsoft.com/en-us/training/github/
 - Dev Skills: https://www.hackerrank.com/ & https://leetcode.com/
+- [SC-300-Identity-and-Access-Administrator Labs](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/tree/master/Instructions/Labs)
 - [GitHub Exam Registration, Certification, and Training Site](https://examregistration.github.com/overview)
 - https://learn.microsoft.com/en-us/ - [Virtual Training Days](https://events.microsoft.com/en-us/mvtd?startTime=08:00&endTime=17:00) & [Skill Challenges](https://www.microsoft.com/en-US/cloudskillschallenge/ai/registration/2023) are solid.
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) - So many fun in-person and online events.
