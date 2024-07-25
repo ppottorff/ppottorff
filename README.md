@@ -42,6 +42,7 @@ Hope you find something interesting. Follow me!
 - [AWS Managed Keys VS CMK - Threat Model](https://airwalkreply.com/aws-kms-threat-model)
 
 ### GitHub
+- [GitIgnore Templates](https://github.com/github/gitignore)
 - https://parallels.github.io/prl-devops-service/
 - https://github.com/github/rest-api-description
 - https://docs.github.com/en/enterprise-cloud@latest/github-cli/github-cli/about-github-cli
