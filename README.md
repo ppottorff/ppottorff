@@ -43,6 +43,7 @@ Hope you find something interesting. Follow me!
 
 ### GitHub
 - [GitIgnore Templates](https://github.com/github/gitignore)
+- [Dependency Graph Package Ecosystems and Manifests](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph)
 - https://parallels.github.io/prl-devops-service/
 - https://github.com/github/rest-api-description
 - https://docs.github.com/en/enterprise-cloud@latest/github-cli/github-cli/about-github-cli
